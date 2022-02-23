@@ -1,34 +1,31 @@
-beecrowd | 1008
-Salário
+beecrowd | 1009
+Salário com Bônus
 Adaptado por Neilor Tonin, URI  Brasil
 
 Timelimit: 1
-Escreva um programa que leia o número de um funcionário, seu número de horas trabalhadas, o valor que recebe por hora e calcula o salário desse funcionário. A seguir, mostre o número e o salário do funcionário, com duas casas decimais.
+Faça um programa que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão sobre suas vendas efetuadas, informar o total a receber no final do mês, com duas casas decimais.
 
 Entrada
-O arquivo de entrada contém 2 números inteiros e 1 número com duas casas decimais, representando o número, quantidade de horas trabalhadas e o valor que o funcionário recebe por hora trabalhada, respectivamente.
+O arquivo de entrada contém um texto (primeiro nome do vendedor) e 2 valores de dupla precisão (double) com duas casas decimais, representando o salário fixo do vendedor e montante total das vendas efetuadas por este vendedor, respectivamente.
 
 Saída
-Imprima o número e o salário do funcionário, conforme exemplo fornecido, com um espaço em branco antes e depois da igualdade. No caso do salário, também deve haver um espaço em branco após o $.
+Imprima o total que o funcionário deverá receber, conforme exemplo fornecido.
 
 Exemplos de Entrada	Exemplos de Saída
-25
-100
-5.50
+JOAO
+500.00
+1230.30
 
-NUMBER = 25
-SALARY = U$ 550.00
+TOTAL = R$ 684.54
 
-1
-200
-20.50
+PEDRO
+700.00
+0.00
 
-NUMBER = 1
-SALARY = U$ 4100.00
+TOTAL = R$ 700.00
 
-6
-145
-15.55
+MANGOJATA
+1700.00
+1230.50
 
-NUMBER = 6
-SALARY = U$ 2254.75
+TOTAL = R$ 1884.58
