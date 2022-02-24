@@ -1,102 +1,102 @@
 # Problemas 1000 <!-- (78%) -->
 
-  - [ ]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - [Hello World!](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1000.poti) *Iniciante*
-  - [ ]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1001.poti) *Iniciante*
-  - [ ]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1002.poti) *Iniciante*
-  - [ ]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1003.poti) *Iniciante*
-  - [ ]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1004.poti) *Iniciante*
-  - [ ]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1005.poti) *Iniciante*
-  - [ ]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1006.poti) *Iniciante*
-  - [ ]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1007.poti) *Iniciante*
-  - [ ]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1008.poti) *Iniciante*
-  - [ ]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1009.poti) *Iniciante*
-  - [ ]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1010.poti) *Iniciante*
-  - [ ]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1011.poti) *Iniciante*
-  - [ ]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1012.poti) *Iniciante*
-  - [ ]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1013.poti) *Iniciante*
-  - [ ]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1014.poti) *Iniciante*
-  - [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1015.poti) *Iniciante*
-  - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1016.poti) *Iniciante*
-  - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1017.poti) *Iniciante*
-  - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1018.poti) *Iniciante*
-  - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1019.poti) *Iniciante*
-  - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1020.poti) *Iniciante*
-  - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1021.poti) *Iniciante*
-  - [ ]  [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1022.poti) *Estruturas e Bibliotecas*
+  - [x]  [1000](https://www.beecrowd.com.br/judge/pt/problems/view/1000) - Hello World! *Iniciante*
+  - [x]  [1001](https://www.beecrowd.com.br/judge/pt/problems/view/1001) - [Extremamente Básico](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1001) *Iniciante*
+  - [x]  [1002](https://www.beecrowd.com.br/judge/pt/problems/view/1002) - [Área do Círculo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1002) *Iniciante*
+  - [x]  [1003](https://www.beecrowd.com.br/judge/pt/problems/view/1003) - [Soma Simples](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1002) *Iniciante*
+  - [x]  [1004](https://www.beecrowd.com.br/judge/pt/problems/view/1004) - [Produto Simples](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1004) *Iniciante*
+  - [x]  [1005](https://www.beecrowd.com.br/judge/pt/problems/view/1005) - [Média 1](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1005) *Iniciante*
+  - [x]  [1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) - [Média 2](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1006) *Iniciante*
+  - [x]  [1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) - [Diferença](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1007) *Iniciante*
+  - [x]  [1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Salário](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1008) *Iniciante*
+  - [x]  [1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) - [Salário com Bônus](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1009) *Iniciante*
+  - [x]  [1010](https://www.beecrowd.com.br/judge/pt/problems/view/1010) - [Cálculo Simples](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1010) *Iniciante*
+  - [x]  [1011](https://www.beecrowd.com.br/judge/pt/problems/view/1011) - [Esfera](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1011) *Iniciante*
+  - [x]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1012) *Iniciante*
+  - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1013) *Iniciante*
+  - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1014) *Iniciante*
+  - [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1015) *Iniciante*
+  - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1016) *Iniciante*
+  - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1017) *Iniciante*
+  - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1018) *Iniciante*
+  - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1019) *Iniciante*
+  - [ ]  [1020](https://www.beecrowd.com.br/judge/pt/problems/view/1020) - [Idade em Dias](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1020) *Iniciante*
+  - [ ]  [1021](https://www.beecrowd.com.br/judge/pt/problems/view/1021) - [Notas e Moedas](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1021) *Iniciante*
+  - [ ]  [1022](https://www.beecrowd.com.br/judge/pt/problems/view/1022) - [TDA Racional](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1022) *Estruturas e Bibliotecas*
   - [ ]  [1023](https://www.beecrowd.com.br/judge/pt/problems/view/1023) - Estiagem *Estruturas e Bibliotecas*
-  - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1024.poti) *Strings*
+  - [ ]  [1024](https://www.beecrowd.com.br/judge/pt/problems/view/1024) - [Criptografia](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1024) *Strings*
   - [ ]  [1025](https://www.beecrowd.com.br/judge/pt/problems/view/1025) - Onde está o Mármore? *Estruturas e Bibliotecas*
-  - [ ]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1026.poti) *Ad-Hoc*
+  - [ ]  [1026](https://www.beecrowd.com.br/judge/pt/problems/view/1026) - [Carrega ou não Carrega?](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1026) *Ad-Hoc*
   - [ ]  [1027](https://www.beecrowd.com.br/judge/pt/problems/view/1027) - Onda Crítica *Paradigmas*
-  - [ ]  [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1028.poti) *Matemática*
-  - [ ]  [1029](https://www.beecrowd.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1029.poti) *Paradigmas*
-  - [ ]  [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) - [A Lenda de Flavious Josephus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1030.poti) *Ad-Hoc*
-  - [ ]  [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) - [Crise de Energia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1031.poti) *Ad-Hoc*
-  - [ ]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - [O Primo de Josephus](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1032.poti) *Ad-Hoc*
+  - [ ]  [1028](https://www.beecrowd.com.br/judge/pt/problems/view/1028) - [Figurinhas](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1028) *Matemática*
+  - [ ]  [1029](https://www.beecrowd.com.br/judge/pt/problems/view/1029) - [Fibonacci, Quantas Chamadas?](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1029) *Paradigmas*
+  - [ ]  [1030](https://www.beecrowd.com.br/judge/pt/problems/view/1030) - [A Lenda de Flavious Josephus](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1030) *Ad-Hoc*
+  - [ ]  [1031](https://www.beecrowd.com.br/judge/pt/problems/view/1031) - [Crise de Energia](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1031) *Ad-Hoc*
+  - [ ]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - [O Primo de Josephus](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1032) *Ad-Hoc*
   - [ ]  [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
   - [ ]  [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
-  - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1035.poti) *Iniciante*
-  - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1036.poti) *Iniciante*
-  - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1037.poti) *Iniciante*
-  - [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1038.poti) *Iniciante*
-  - [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Flores de Fogo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1039.poti) *Geometria Computacional*
-  - [ ]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1040.poti) *Iniciante*
-  - [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1041.poti) *Iniciante*
-  - [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1042.poti) *Iniciante*
-  - [ ]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1043.poti) *Iniciante*
-  - [ ]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1044.poti) *Iniciante*
-  - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1045.poti) *Iniciante*
-  - [ ]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1046.poti) *Iniciante*
-  - [ ]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1047.poti) *Iniciante*
-  - [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1048.poti) *Iniciante*
-  - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1049.poti) *Iniciante*
-  - [ ]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1050.poti) *Iniciante*
-  - [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1051.poti) *Iniciante*
-  - [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1052.poti) *Iniciante*
+  - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1035) *Iniciante*
+  - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1036) *Iniciante*
+  - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1037) *Iniciante*
+  - [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1038) *Iniciante*
+  - [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Flores de Fogo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1039) *Geometria Computacional*
+  - [ ]  [1040](https://www.beecrowd.com.br/judge/pt/problems/view/1040) - [Média 3](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1040) *Iniciante*
+  - [ ]  [1041](https://www.beecrowd.com.br/judge/pt/problems/view/1041) - [Coordenadas de um Ponto](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1041) *Iniciante*
+  - [ ]  [1042](https://www.beecrowd.com.br/judge/pt/problems/view/1042) - [Sort Simples](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1042) *Iniciante*
+  - [ ]  [1043](https://www.beecrowd.com.br/judge/pt/problems/view/1043) - [Triângulo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1043) *Iniciante*
+  - [ ]  [1044](https://www.beecrowd.com.br/judge/pt/problems/view/1044) - [Múltiplos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1044) *Iniciante*
+  - [ ]  [1045](https://www.beecrowd.com.br/judge/pt/problems/view/1045) - [Tipos de Triângulos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1045) *Iniciante*
+  - [ ]  [1046](https://www.beecrowd.com.br/judge/pt/problems/view/1046) - [Tempo de Jogo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1046) *Iniciante*
+  - [ ]  [1047](https://www.beecrowd.com.br/judge/pt/problems/view/1047) - [Tempo de Jogo com Minutos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1047) *Iniciante*
+  - [ ]  [1048](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Aumento de Salário](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1048) *Iniciante*
+  - [ ]  [1049](https://www.beecrowd.com.br/judge/pt/problems/view/1049) - [Animal](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1049) *Iniciante*
+  - [ ]  [1050](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [DDD](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1050) *Iniciante*
+  - [ ]  [1051](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - [Imposto de Renda](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1051) *Iniciante*
+  - [ ]  [1052](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Mês](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1052) *Iniciante*
   - [ ]  [1053](https://www.beecrowd.com.br/judge/pt/problems/view/1053) - Desenho Contínuo *Grafos*
   - [ ]  [1054](https://www.beecrowd.com.br/judge/pt/problems/view/1054) - Sapo Dinâmico *Paradigmas*
   - [ ]  [1055](https://www.beecrowd.com.br/judge/pt/problems/view/1055) - Soma Permutada Elegante *Paradigmas*
   - [ ]  [1056](https://www.beecrowd.com.br/judge/pt/problems/view/1056) - Fatores e Múltiplos *Grafos*
   - [ ]  [1057](https://www.beecrowd.com.br/judge/pt/problems/view/1057) - Chegando Junto *Grafos*
   - [ ]  [1058](https://www.beecrowd.com.br/judge/pt/problems/view/1058) - Zonas de Ataque Independentes *Paradigmas*
-  - [ ]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1059.poti) *Iniciante*
-  - [ ]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1060.poti) *Iniciante*
-  - [ ]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1061.poti) *Iniciante*
-  - [ ]  [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) - [Trilhos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1062.poti) *Estruturas e Bibliotecas*
+  - [ ]  [1059](https://www.beecrowd.com.br/judge/pt/problems/view/1059) - [Números Pares](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1059) *Iniciante*
+  - [ ]  [1060](https://www.beecrowd.com.br/judge/pt/problems/view/1060) - [Números Positivos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1060) *Iniciante*
+  - [ ]  [1061](https://www.beecrowd.com.br/judge/pt/problems/view/1061) - [Tempo de um Evento](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/104061) *Iniciante*
+  - [ ]  [1062](https://www.beecrowd.com.br/judge/pt/problems/view/1062) - [Trilhos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1062) *Estruturas e Bibliotecas*
   - [ ]  [1063](https://www.beecrowd.com.br/judge/pt/problems/view/1063) - Trilhos Novamente... Traçando Movimentos *Estruturas e Bibliotecas*
-  - [ ]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1064.poti) *Iniciante*
-  - [ ]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1065.poti) *Iniciante*
-  - [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1066.poti) *Iniciante*
-  - [ ]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Números Ímpares](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1067.poti) *Iniciante*
-  - [ ]  [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1068.poti) *Estruturas e Bibliotecas*
-  - [ ]  [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1069.poti) *Estruturas e Bibliotecas*
-  - [ ]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1070.poti) *Iniciante*
-  - [ ]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1071.poti) *Iniciante*
-  - [ ]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1072.poti) *Iniciante*
-  - [ ]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1073.poti) *Iniciante*
-  - [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1074.poti) *Iniciante*
-  - [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1075.poti) *Iniciante*
+  - [ ]  [1064](https://www.beecrowd.com.br/judge/pt/problems/view/1064) - [Positivos e Média](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1064) *Iniciante*
+  - [ ]  [1065](https://www.beecrowd.com.br/judge/pt/problems/view/1065) - [Pares entre Cinco Números](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1065) *Iniciante*
+  - [ ]  [1066](https://www.beecrowd.com.br/judge/pt/problems/view/1066) - [Pares, Ímpares, Positivos e Negativos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1066) *Iniciante*
+  - [ ]  [1067](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Números Ímpares](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1067) *Iniciante*
+  - [ ]  [1068](https://www.beecrowd.com.br/judge/pt/problems/view/1068) - [Balanço de Parênteses I](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1068) *Estruturas e Bibliotecas*
+  - [ ]  [1069](https://www.beecrowd.com.br/judge/pt/problems/view/1069) - [Diamantes e Areia](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1069) *Estruturas e Bibliotecas*
+  - [ ]  [1070](https://www.beecrowd.com.br/judge/pt/problems/view/1070) - [Seis Números Ímpares](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1070) *Iniciante*
+  - [ ]  [1071](https://www.beecrowd.com.br/judge/pt/problems/view/1071) - [Soma de Impares Consecutivos I](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1071) *Iniciante*
+  - [ ]  [1072](https://www.beecrowd.com.br/judge/pt/problems/view/1072) - [Intervalo 2](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1072) *Iniciante*
+  - [ ]  [1073](https://www.beecrowd.com.br/judge/pt/problems/view/1073) - [Quadrado de Pares](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1073) *Iniciante*
+  - [ ]  [1074](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Par ou Ímpar](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1074) *Iniciante*
+  - [ ]  [1075](https://www.beecrowd.com.br/judge/pt/problems/view/1075) - [Resto 2](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1075) *Iniciante*
   - [ ]  [1076](https://www.beecrowd.com.br/judge/pt/problems/view/1076) - Desenhando Labirintos *Grafos*
   - [ ]  [1077](https://www.beecrowd.com.br/judge/pt/problems/view/1077) - Infixa para Posfixa *Estruturas e Bibliotecas*
-  - [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1078.poti) *Iniciante*
-  - [ ]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1079.poti) *Iniciante*
-  - [ ]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1080.poti) *Iniciante*
+  - [ ]  [1078](https://www.beecrowd.com.br/judge/pt/problems/view/1078) - [Tabuada](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1078) *Iniciante*
+  - [ ]  [1079](https://www.beecrowd.com.br/judge/pt/problems/view/1079) - [Médias Ponderadas](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1079) *Iniciante*
+  - [ ]  [1080](https://www.beecrowd.com.br/judge/pt/problems/view/1080) - [Maior e Posição](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1080) *Iniciante*
   - [ ]  [1081](https://www.beecrowd.com.br/judge/pt/problems/view/1081) - DFSr - Hierarquia de Profundidade *Grafos*
   - [ ]  [1082](https://www.beecrowd.com.br/judge/pt/problems/view/1082) - Componentes Conexos *Grafos*
   - [ ]  [1083](https://www.beecrowd.com.br/judge/pt/problems/view/1083) - LEXSIM - Avaliador Lexico e Sintático *Estruturas e Bibliotecas*
-  - [ ]  [1084](https://www.beecrowd.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1084.poti) *Paradigmas*
+  - [ ]  [1084](https://www.beecrowd.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1084) *Paradigmas*
   - [ ]  [1085](https://www.beecrowd.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
   - [ ]  [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
-  - [ ]  [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1087.poti) *Ad-Hoc*
+  - [ ]  [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - [Dama]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1087) *Ad-Hoc*
   - [ ]  [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
-  - [ ]  [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) - [Loop Musical](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1089.poti) *Ad-Hoc*
+  - [ ]  [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) - [Loop Musical](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1098) *Ad-Hoc*
   - [ ]  [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
-  - [ ]  [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1091.poti) *Ad-Hoc*
+  - [ ]  [1091](https://www.beecrowd.com.br/judge/pt/problems/view/1091) - [Divisão da Nlogônia](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1091) *Ad-Hoc*
   - [ ]  [1092](https://www.beecrowd.com.br/judge/pt/problems/view/1092) - Maior Subseqüência Crescente *Ad-Hoc*
-  - [ ]  [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - [Vampiros](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1093.poti) *Matemática*
-  - [ ]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1094.poti) *Iniciante*
-  - [ ]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1095.poti) *Iniciante*
-  - [ ]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1096.poti) *Iniciante*
-  - [ ]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1097.poti) *Iniciante*
-  - [ ]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1098.poti) *Iniciante*
-  - [ ]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/potigol/uoj-potigol/blob/master/src/1000/1099.poti) *Iniciante*
+  - [ ]  [1093](https://www.beecrowd.com.br/judge/pt/problems/view/1093) - [Vampiros](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1093) *Matemática*
+  - [ ]  [1094](https://www.beecrowd.com.br/judge/pt/problems/view/1094) - [Experiências](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1094) *Iniciante*
+  - [ ]  [1095](https://www.beecrowd.com.br/judge/pt/problems/view/1095) - [Sequencia IJ 1](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1095) *Iniciante*
+  - [ ]  [1096](https://www.beecrowd.com.br/judge/pt/problems/view/1096) - [Sequencia IJ 2](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1096) *Iniciante*
+  - [ ]  [1097](https://www.beecrowd.com.br/judge/pt/problems/view/1097) - [Sequencia IJ 3](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1097) *Iniciante*
+  - [ ]  [1098](https://www.beecrowd.com.br/judge/pt/problems/view/1098) - [Sequencia IJ 4](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1098) *Iniciante*
+  - [ ]  [1099](https://www.beecrowd.com.br/judge/pt/problems/view/1099) - [Soma de Ímpares Consecutivos II](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1040) *Iniciante*
