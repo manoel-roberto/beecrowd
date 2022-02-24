@@ -15,7 +15,7 @@
   - [x]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1012) *Iniciante*
   - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1013) *Iniciante*
   - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1014) *Iniciante*
-  - [ ]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1015) *Iniciante*
+  - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1015) *Iniciante*
   - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1016) *Iniciante*
   - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1017) *Iniciante*
   - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1018) *Iniciante*
