@@ -15,8 +15,8 @@
   - [x]  [1012](https://www.beecrowd.com.br/judge/pt/problems/view/1012) - [Área](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1012) *Iniciante*
   - [x]  [1013](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [O Maior](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1013) *Iniciante*
   - [x]  [1014](https://www.beecrowd.com.br/judge/pt/problems/view/1014) - [Consumo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1014) *Iniciante*
-  - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1015) *Iniciante*
-  - [ ]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1016) *Iniciante*
+  - [x]  [1015](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Distância Entre Dois Pontos](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1015) *Iniciante*
+  - [x]  [1016](https://www.beecrowd.com.br/judge/pt/problems/view/1016) - [Distância](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1016) *Iniciante*
   - [ ]  [1017](https://www.beecrowd.com.br/judge/pt/problems/view/1017) - [Gasto de Combustível](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1017) *Iniciante*
   - [ ]  [1018](https://www.beecrowd.com.br/judge/pt/problems/view/1018) - [Cédulas](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1018) *Iniciante*
   - [ ]  [1019](https://www.beecrowd.com.br/judge/pt/problems/view/1019) - [Conversão de Tempo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1019) *Iniciante*
@@ -87,7 +87,7 @@
   - [ ]  [1084](https://www.beecrowd.com.br/judge/pt/problems/view/1084) - [Apagando e Ganhando](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1084) *Paradigmas*
   - [ ]  [1085](https://www.beecrowd.com.br/judge/pt/problems/view/1085) - Babel *Grafos*
   - [ ]  [1086](https://www.beecrowd.com.br/judge/pt/problems/view/1086) - O Salão do Clube *Ad-Hoc*
-  - [ ]  [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - [Dama]https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1087) *Ad-Hoc*
+  - [ ]  [1087](https://www.beecrowd.com.br/judge/pt/problems/view/1087) - [Dama](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1087) *Ad-Hoc*
   - [ ]  [1088](https://www.beecrowd.com.br/judge/pt/problems/view/1088) - Bolhas e Baldes *Estruturas e Bibliotecas*
   - [ ]  [1089](https://www.beecrowd.com.br/judge/pt/problems/view/1089) - [Loop Musical](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1098) *Ad-Hoc*
   - [ ]  [1090](https://www.beecrowd.com.br/judge/pt/problems/view/1090) - Set *Ad-Hoc*
