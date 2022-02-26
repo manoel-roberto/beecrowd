@@ -35,7 +35,7 @@
   - [ ]  [1032](https://www.beecrowd.com.br/judge/pt/problems/view/1032) - [O Primo de Josephus](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1032) *Ad-Hoc*
   - [ ]  [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
   - [ ]  [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
-  - [ ]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1035) *Iniciante*
+  - [x]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1035) *Iniciante*
   - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1036) *Iniciante*
   - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1037) *Iniciante*
   - [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1038) *Iniciante*
