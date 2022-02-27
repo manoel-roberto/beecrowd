@@ -36,7 +36,7 @@
   - [ ]  [1033](https://www.beecrowd.com.br/judge/pt/problems/view/1033) - Quantas Chamadas Recursivas? *Paradigmas*
   - [ ]  [1034](https://www.beecrowd.com.br/judge/pt/problems/view/1034) - Festival de Estátuas de Gelo *Paradigmas*
   - [x]  [1035](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Teste de Seleção 1](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1035) *Iniciante*
-  - [ ]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1036) *Iniciante*
+  - [x]  [1036](https://www.beecrowd.com.br/judge/pt/problems/view/1036) - [Fórmula de Bhaskara](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1036) *Iniciante*
   - [ ]  [1037](https://www.beecrowd.com.br/judge/pt/problems/view/1037) - [Intervalo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1037) *Iniciante*
   - [ ]  [1038](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Lanche](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1038) *Iniciante*
   - [ ]  [1039](https://www.beecrowd.com.br/judge/pt/problems/view/1039) - [Flores de Fogo](https://github.com/manoel-roberto/beecrowd/tree/master/src/1000/1039) *Geometria Computacional*
